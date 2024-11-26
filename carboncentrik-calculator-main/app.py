@@ -156,7 +156,7 @@ with col4:
     waste = st.slider("Waste", 0.0, 100.0, key="waste_input")
 
 # New input for the number of babies
-st.subheader("👶 Carbon emitted by number of babies born per year(in tons)")
+st.subheader("👶 Carbon emitted by number of babies born per year")
 babies = st.number_input("Number of babies", 0, 10, key="babies_input")
 
 # Normalize inputs
