@@ -116,7 +116,7 @@ EMISSION_FACTORS = {
 st.set_page_config(layout="wide", page_title="Personal Carbon Calculator")
 
 # Streamlit app code
-st.title("Carbon Emission Calculator App ⚠️")
+st.title("Carbon Emission Calculator ⚠️")
 st.subheader("By Abhinav and Aryan")
 
 # User inputs
@@ -157,7 +157,7 @@ with col4:
 
 # New input for the number of babies
 st.subheader("👶 Babies born per year")
-babies = st.number_input("Number of babies", 0, 10, key="babies_input")
+babies = st.number_input("Number of Babies", 0, 10, key="babies_input")
 
 # Normalize inputs
 distance_petrol = distance_petrol * 365  # Convert daily distance to yearly
