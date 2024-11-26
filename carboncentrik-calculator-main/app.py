@@ -116,7 +116,7 @@ EMISSION_FACTORS = {
 st.set_page_config(layout="wide", page_title="Personal Carbon Calculator")
 
 # Streamlit app code
-st.title("Carbon Emission Calculator ⚠️")
+st.title("Carbon Emission Calculator App ⚠️")
 st.subheader("By Abhinav and Aryan")
 
 # User inputs
