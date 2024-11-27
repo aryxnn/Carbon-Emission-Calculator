@@ -220,7 +220,8 @@ if st.button("Calculate CO2 Emissions"):
 3. **Energy Conservation at Home:** Use energy-efficient appliances, turn off lights when not in use, and consider switching to LED bulbs to reduce electricity consumption.
 4. **Reduce, Reuse, Recycle:** Minimize waste generation by reducing plastic use, reusing items, and recycling waste to reduce your carbon footprint from waste management.
 5. **Choose a Sustainable Diet:** Reduce meat consumption and opt for plant-based meals, which have a significantly lower carbon footprint than animal-based products.
-6. **Sustainable Baby Care:** Choose eco-friendly baby products such as cloth diapers, biodegradable wipes, and organic baby food. Avoid disposable plastic items and consider second-hand baby clothes and toys to minimize environmental impact.
+6. **Less Babies, More Trees:** Promote family planning and raise awareness about the environmental impact of overpopulation. Encouraging smaller families can help reduce resource consumption, lower carbon footprints, and ease the strain on the planet’s ecosystems.                
+7. **Sustainable Baby Care:** Choose eco-friendly baby products such as cloth diapers, biodegradable wipes, and organic baby food. Avoid disposable plastic items and consider second-hand baby clothes and toys to minimize environmental impact.
 """)
 
 
