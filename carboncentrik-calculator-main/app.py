@@ -142,7 +142,7 @@ with col2:
     distance_diesel = st.slider("Distance (Diesel)", 0.0, 100.0, key="distance_diesel_input")
 
     st.subheader("🍽️ Number of meals per day")
-    meals = st.number_input("Meals", 0, key="meals_input")
+    meals = st.number_input("Meals", 0, 10,key="meals_input")
 
 col3, col4 = st.columns(2)
 
